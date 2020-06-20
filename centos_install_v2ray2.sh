@@ -11,7 +11,7 @@ green="\033[0;32m"
 plain='\033[0m'
 
 sites=(
-http://www.shucheng.in
+http://www.shucheng.in/
 )
 
 function checkSystem()
